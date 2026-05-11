@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome C"
+abstract: "A curated list of libraries, frameworks, tools, compilers, educational resources, tutorials, projects, and references related to the C programming language and systems programming."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-c"
+keywords:
+  - C
+  - C programming
+  - systems programming
+  - compilers
+  - embedded systems
+  - operating systems
+  - low-level programming
+  - software development
+  - programming languages
+  - awesome list
