@@ -1,4 +1,4 @@
-# Awesome C [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome C [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1113473792.svg)](https://doi.org/10.5281/zenodo.19673113)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -134,10 +134,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome Programming Languages](https://github.com/awesomelistsio/awesome-programming-languages)
-- [Awesome Systems Programming](https://github.com/awesomelistsio/awesome-systems-programming)
-- [Awesome Embedded](https://github.com/awesomelistsio/awesome-embedded)
-- [Awesome Linux](https://github.com/awesomelistsio/awesome-linux)
+- [Awesome Programming Languages](https://github.com/brandonhimpfen/awesome-programming-languages)
+- [Awesome Systems Programming](https://github.com/brandonhimpfen/awesome-systems-programming)
+- [Awesome Embedded](https://github.com/brandonhimpfen/awesome-embedded)
+- [Awesome Linux](https://github.com/brandonhimpfen/awesome-linux)
 
 ## Contribute
 
